@@ -5,11 +5,12 @@
 （2）输入命令：  
 
 ```npm install vue-router -g```
-''' npm i --save axios --legacy-peer-deps '''  
 
-''' npm install '''  
+```npm i --save axios --legacy-peer-deps```  
 
-''' npm run dev '''  
+```npm install```
+
+```npm run dev```  
 
 注：这里再安装axios时发现npm install axios -g命令无法安装，原因附网址：[npm i axios 安装失败及解决办法](https://blog.csdn.net/weixin_48567232/article/details/136171199)  
 
