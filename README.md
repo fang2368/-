@@ -4,7 +4,7 @@
 
 （2）输入命令：  
 
-··· npm install vue-router -g ···
+```npm install vue-router -g```
 ''' npm i --save axios --legacy-peer-deps '''  
 
 ''' npm install '''  
