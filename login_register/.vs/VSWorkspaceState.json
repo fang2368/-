@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\components",
+    "\\src\\request",
+    "\\src\\routers",
+    "\\src\\views"
+  ],
+  "SelectedNode": "\\src\\views\\dentify.vue",
+  "PreviewInSolutionExplorer": false
+}
