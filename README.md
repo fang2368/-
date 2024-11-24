@@ -12,7 +12,7 @@
 
 ```npm run dev```  
 
-注：这里再安装axios时发现npm install axios -g命令无法安装，原因附网址：[npm i axios 安装失败及解决办法](https://blog.csdn.net/weixin_48567232/article/details/136171199)  
+注：我安装axios时发现npm install axios -g命令无法安装，原因附网址：[npm i axios 安装失败及解决办法](https://blog.csdn.net/weixin_48567232/article/details/136171199)  
 
  (3) 将网址复制粘贴进浏览器地址栏  
  
